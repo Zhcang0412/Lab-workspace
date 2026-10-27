@@ -1,0 +1,7 @@
+# Windows / macOS
+Thumbs.db
+Desktop.ini.DS_Store
+
+# Office 临时文件
+~$*
+*.tmp
